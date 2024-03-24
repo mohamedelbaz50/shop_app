@@ -63,20 +63,13 @@
 ## 🛠 Dependencies
 
 ```pubspec.yaml
-  date_picker_timeline: 
+ smooth_page_indicator: 
   flutter_bloc: 
-  flutter_screenutil: 
+  dio: 
+  conditional_builder_null_safety: 
   fluttertoast: 
-  get_it: 
-  google_fonts: 
-  intl: 
   shared_preferences: 
-  smooth_page_indicator: 
-  sqflite: 
-  flutter_local_notifications: 
-  timezone: 
-  flutter_timezone: 
-  workmanager: 
+  carousel_slider: 
 ```
 
 ## ☢️ Usage
