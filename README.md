@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a> -->
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/aboelbaz50">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
