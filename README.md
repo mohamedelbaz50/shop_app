@@ -34,7 +34,7 @@
 - **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
 - **Home Screen:** The User can discover all products.
 - **Profile Screen :**  The User can see his profile and edit it .
-- **Search Screen :**  The User can search about any profuct .
+- **Search Screen :**  The User can search about any product .
 
 <hr>
 <h3>
